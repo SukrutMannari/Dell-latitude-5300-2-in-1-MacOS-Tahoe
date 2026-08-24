@@ -7,6 +7,8 @@
 
 This repository contains the OpenCore EFI folder to successfully boot **macOS 26 Tahoe** on the Dell Latitude 5300 2-in-1.
 
+📈 **[View Geekbench 7 Score](https://browser.geekbench.com/v7/cpu/198103)**
+
 ## 💻 Hardware Specifications
 
 | Component | Specification |
